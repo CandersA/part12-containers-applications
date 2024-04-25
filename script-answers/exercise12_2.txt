@@ -1,0 +1,7 @@
+Script started on 2024-04-25 08:43:52+00:00 [TERM="xterm" TTY="/dev/pts/0" COLUMNS="237" LINES="20"]
+# mkdir /usr/src/app
+# cd /usr/src/app
+# touch index.js
+# exit
+
+Script done on 2024-04-25 08:44:41+00:00 [COMMAND_EXIT_CODE="0"]
